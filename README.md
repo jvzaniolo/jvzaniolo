@@ -3,12 +3,12 @@
 ## Bom dia família!
 
 Sou louco por tecnologia e encontrei na programação algo que me completa.
-Poder ver meus projetos tomando corpo e funcionando é uma enorme satisfação!
+<br/> Poder ver meus projetos tomando corpo e funcionando é uma enorme satisfação!
 
 Sonho em ser professor para repassar esse sentimento às outras pessoas e mostrar que programar não é difícil e sim _divertido_! :yum:
 
 :post_office: Atualmente trabalho como desenvolvedor Front-End utilizando Angular para web e Flutter para mobile
-:computer: Mas sou muito fã de Node, ReactJS e React Native! Por isso sigo fazendo cursos online para melhorar minhas habilidades nessa stack!
+<br/> :computer: Mas sou muito fã de Node, ReactJS e React Native! Por isso sigo fazendo cursos online para melhorar minhas habilidades nessa stack!
 
 💬 Adoro jogar online (Cs:Go, Lol, Valorant, etc) com os meus amigos e ouvir músicas! (Sem deixar de lado aquela picanha)
 
