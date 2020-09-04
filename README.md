@@ -13,7 +13,7 @@ Poder dar vida aos meus projetos e ver eles funcionando é uma sensação incrí
 </br>
 💻 Sou também muito fã de Node.js, ReactJS e React Native! Por isso sigo fazendo cursos online para melhorar minhas habilidades nessa stack!
 </br>
-🎒 No momento estou fazendo parte do Bootcamp GoStack da Rocketseat 🚀
+🎒 No momento estou fazendo parte do Bootcamp GoStack da Rocketseat e está sendo uma experiência muito incrível! 🚀
 
 💬 Adoro jogar online (Cs:Go, Lol, Valorant, etc) com os meus amigos, ouvir músicas e comer muito lanche e carne!
 
