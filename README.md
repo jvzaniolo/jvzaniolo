@@ -18,5 +18,3 @@ Poder dar vida aos meus projetos e ver eles funcionando é uma sensação incrí
 💬 Adoro jogar online (Cs:Go, Lol, Valorant, etc) com os meus amigos, ouvir músicas e comer muito lanche e carne!
 
 :email: jv.zaniolo@gmail.com
-
-Linkedin: https://www.linkedin.com/in/joão-vitor-zaniolo-de-oliveira-06b49914b
