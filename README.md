@@ -9,13 +9,13 @@
 Today I work as a front-end developer using HTML, SASS, JavaScript, Angular and Flutter.
 
 ## 💜 Passions
-But I'm a huge fan of Node and React, that's why I keep doing online classes and personal projects to enhance my skills.
+I'm a huge fan of Node and React, that's why I keep doing online classes and personal projects to enhance my skills.
 
 ## 🪐 Goals
 One of my biggest dreams is to bring others the same joy and fun that I have when programming.
 
 ## 👔 Courses
-🚀 Right now I'm attending at GoStack Bootcamp from Rocketseat and I'm learning stuff like DDD, TDD, SOLID, backend concepts, database structure, styled-components, hooks, states, and more.
+🚀 Right now I'm attending at GoStack Bootcamp from Rocketseat and I'm learning stuff like DDD, TDD, SOLID, styled-components, hooks, states, redux, Nextjs and more!
 
 ## 🎮 Hobbies
 I love to play video games with friends and family, listen to music, and eat burgers!
