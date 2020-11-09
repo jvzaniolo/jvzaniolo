@@ -20,5 +20,5 @@ One of my biggest dreams is to bring others the same joy and fun that I have whe
 ## 🎮 Hobbies
 I love to play video games with friends and family, listen to music, and eat burgers!
 
-### Something that keeps me going
-"If you can't beat the fear, just do it scared!" - Glennon Doyle Melton
+> "If you can't beat the fear, just do it scared!" - Glennon Doyle Melton<br>
+> "The greatest successes come from having the freedom to fail." - Mark Zuckerberg
