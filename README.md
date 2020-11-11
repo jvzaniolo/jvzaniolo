@@ -8,7 +8,7 @@
 ## 🧑🏻‍💻 Work
 Today I work as a front-end developer using HTML, SASS, JavaScript, Angular and Flutter.
 
-## 💜 Passions
+## 💜 Interest
 I'm a huge fan of Node and React, that's why I keep doing online classes and personal projects to enhance my skills.
 
 ## 🪐 Goals
