@@ -1,27 +1,22 @@
-[![João Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvzaniolo&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
-
-
-# 🙋🏻‍♂️ Hi, here is a little about me
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jvzaniolo)](https://github.com/jvzaniolo)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvzaniolo/)](https://www.linkedin.com/in/jvzaniolo/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+16+981354582&text=Olá!)](https://api.whatsapp.com/send?phone=55+16+981354582&text=Olá!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jv.zaniolo@gmail.com)](mailto:jv.zaniolo@gmail.com)
  
+### 🙋🏻‍♂️ Hi there!
+# My name is João Vitor
+ - I work as a software engineer to develop the best frontend solution for our clients.
 
-## 🧑🏻‍💻 Work
-Today I work as a front-end developer using HTML, SASS, JavaScript, Angular and Flutter.
+### 🚀 Skills
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## 💜 Interest
-I'm a huge fan of Node and React, that's why I keep doing online classes and personal projects to enhance my skills.
+### 🪐 Goals 2021
+ - [ ] Start my own Youtube channel so I can teach software engineer to everyone!
 
-## 🪐 Goals
-One of my biggest dreams is to bring others the same joy and fun that I have when programming.
-
-## 👔 Courses
-🚀 Right now I'm attending at GoStack Bootcamp from Rocketseat and I'm learning stuff like DDD, TDD, SOLID, styled-components, hooks, states, redux, Nextjs and more!
-
-## 🎮 Hobbies
-I love to play video games with friends and family, listen to music, and eat burgers!
-
+### ✊ Phrases of my life
 > "If you can't beat the fear, just do it scared!" - Glennon Doyle Melton<br>
 > "The greatest successes come from having the freedom to fail." - Mark Zuckerberg
+
+[![João Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvzaniolo&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvzaniolo&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
