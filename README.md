@@ -1,4 +1,5 @@
- 
+<img align="right" src="./Javascript_Isometric.png">
+
 ### 🙋🏻‍♂️ Hi there!
 # My name is João Vitor
  - I work as a software engineer to develop the best frontend solution for our clients.
@@ -19,5 +20,4 @@
 
 ### 🌟 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvzaniolo&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![João Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvzaniolo&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+[![João Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvzaniolo&show_icons=true&theme=ayu-mirage&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
