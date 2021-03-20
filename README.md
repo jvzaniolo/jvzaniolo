@@ -15,8 +15,11 @@
  - [ ] Start my own Youtube channel so I can teach software engineer to everyone!
 
 ### ✊ Phrases of my life
-> "If you can't beat the fear, just do it scared!" - Glennon Doyle Melton<br>
-> "The greatest successes come from having the freedom to fail." - Mark Zuckerberg
+> "If you can't beat the fear, just do it scared!" - Glennon Doyle Melton.
+
+> "The greatest successes come from having the freedom to fail." - Mark Zuckerberg.
+
+> “If I only had an hour to chop down a tree, I would spend the first 45 minutes sharpening my axe.” – Abraham Lincoln.
 
 ### 🌟 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvzaniolo&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
