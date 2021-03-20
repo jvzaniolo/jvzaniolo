@@ -2,7 +2,7 @@
 
 ### 🙋🏻‍♂️ Hi there!
 # My name is João Vitor
- - I work as a software engineer to develop the best frontend solution for our clients.
+ - I work as a software engineer to develop the best front-end solution for our clients.
 
 ### 🚀 Skills
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
