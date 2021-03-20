@@ -17,6 +17,7 @@
 > "If you can't beat the fear, just do it scared!" - Glennon Doyle Melton<br>
 > "The greatest successes come from having the freedom to fail." - Mark Zuckerberg
 
-[![João Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvzaniolo&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
-
+### 🌟 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvzaniolo&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![João Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvzaniolo&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
