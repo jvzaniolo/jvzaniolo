@@ -1,3 +1,6 @@
+[![João Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvzaniolo&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # 🙋🏻‍♂️ Hi, here is a little about me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jvzaniolo)](https://github.com/jvzaniolo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvzaniolo/)](https://www.linkedin.com/in/jvzaniolo/)
