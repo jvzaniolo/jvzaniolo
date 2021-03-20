@@ -1,4 +1,4 @@
-<img align="right" src="./Javascript_Isometric.png">
+<img align="right" width="400" src="./Javascript_Isometric.png">
 
 ### 🙋🏻‍♂️ Hi there!
 # My name is João Vitor
