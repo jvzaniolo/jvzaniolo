@@ -12,7 +12,7 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🪐 Goals 2021
- - [ ] Start my own Youtube channel so I can teach software engineer to everyone!
+ - [ ] Start my own Youtube channel so I can teach software engineering to everyone!
 
 ### ✊ Phrases of my life
 > "If you can't beat the fear, just do it scared!" - Glennon Doyle Melton.
