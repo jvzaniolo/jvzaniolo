@@ -7,9 +7,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-### 🪐 Goals 2021
- - [ ] Start my own Youtube channel so I can teach software engineering to everyone!
-
 ### ✊ Phrases that keeps me going
 > "If you can't beat the fear, just do it scared!" - Glennon Doyle Melton.
 > 
