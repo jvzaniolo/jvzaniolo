@@ -1,7 +1,7 @@
 <img align="right" width="400" src="./Javascript_Isometric.png">
 
 ### 🙋🏻‍♂️ Hi there!
- - Working as a front-end developer for 2 years crafting incredible solutions to help people.
+ - Working as a UI Engineer for 2 years crafting stunning and fast solutions to help people.
 
 ### 🚀 Skills
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -11,7 +11,7 @@
 
 ### ✊ Phrases that keeps me going
 > "If you can't beat the fear, just do it scared!" - Glennon Doyle Melton.
-> 
+
 > "Always leave the code better than you found it." – Robert C. Martin.
 
 ### 🌟 Stats
