@@ -8,7 +8,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Remix](https://img.shields.io/badge/remix-212121?style=for-the-badge&logo=remix&logoColor=white)
 
 ### ✊ Phrases that keeps me going
 > "If you can't beat the fear, just do it scared!" - Glennon Doyle Melton.
