@@ -13,6 +13,3 @@
 > "If you can't beat the fear, just do it scared!" - Glennon Doyle Melton.
 
 > "Always leave the code better than you found it." – Robert C. Martin.
-
-### 🌟 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvzaniolo&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
